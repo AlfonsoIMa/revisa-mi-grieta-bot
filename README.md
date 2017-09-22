@@ -27,6 +27,7 @@ Revisa los [issues](https://github.com/codersmexico/revisa-mi-grieta-bot/issues)
 
 ## Team
  - [Poguez](http://noedominguez.com)
+ - [AlfonsoIMa](https://github.com/AlfonsoIMa/revisa-mi-grieta-bot)
 
 ## Licencia
 
